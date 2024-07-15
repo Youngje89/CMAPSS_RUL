@@ -15,6 +15,8 @@ import torch.nn.functional as F
 from torch.utils.data import TensorDataset, DataLoader
 from torch.autograd import Variable
 
+### testtesttest
+
 # Define the CNN model
 class CNNFeatureExtractor(nn.Module):
     def __init__(self, input_channels):
